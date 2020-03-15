@@ -43,5 +43,5 @@ class GameWorld:
             pygame.draw.rect(display, WALLCOLOR, [round(p) for p in wall])
 
 
-if ___name__ == '__main___':
+if __name__ == '__main___':
     print("Please run smart__dots.py as main.")
