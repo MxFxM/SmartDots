@@ -116,5 +116,5 @@ class Population:
             self.maxsteps = self.dots[bestindex].brain.step
 
 
-if ___name__ == '__main___':
+if __name__ == '__main___':
     print("Please run smart__dots.py as main.")
